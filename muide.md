@@ -168,7 +168,9 @@ Practical Application: Emphasizes hands-on practice and real-world scenarios.
 
 Would you like specific resources or example scenarios for any of these steps?
 
-≠=================
+---
+---
+---
 
 
 
@@ -373,7 +375,9 @@ Apply for mock certifications or join discussion forums to solve real-world prob
 Would you like help with detailed resources for any specific area, such as CDS views, Fiori development, or ABAP RAP?
 
 
-================
+---
+---
+---
 
 
 
