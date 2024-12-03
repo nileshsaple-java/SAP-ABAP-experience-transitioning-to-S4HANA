@@ -7,7 +7,7 @@ Answer:
 
 Strategy: Be confident but reasonable. Base your answer on market trends and your experience.
 
-"Considering my 8 years of experience in SAP across multiple modules, leadership roles, and working with top-tier clients like Deloitte and Accenture, I am expecting a compensation of ₹18–20 LPA, which aligns with industry standards for this role."
+"Considering my 8 years of experience in SAP across multiple modules, leadership roles, and working with top-tier clients like Deloitte and Accenture, I am expecting a compensation of ₹20-22 LPA, which aligns with industry standards for this role."
 
 
 
@@ -70,7 +70,7 @@ Strategy: Be diplomatic but firm about your worth.
 Q: Are you aware of the industry standards for this role?
 Answer:
 
-"Yes, I’ve researched that SAP professionals with similar experience in enhancement, integration, and rollout projects typically earn ₹18–22 LPA. My expectation of ₹18–20 LPA is within this range, considering my skills and client exposure."
+"Yes, I’ve researched that SAP professionals with similar experience in enhancement, integration, and rollout projects typically earn ₹20-22 LPA. My expectation of ₹20-22 LPA is within this range, considering my skills and client exposure."
 
 
 
